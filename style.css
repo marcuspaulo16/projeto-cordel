@@ -61,15 +61,7 @@ section#img02 {
     background-attachment: fixed;
 }
 
-#p2 {
-    text-shadow: 2px 2px rgba(0, 0, 0, 0.63);
-    padding: 30px;
-    border-radius: 10px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.650), rgba(0, 0, 0, 0.050), transparent);
-    color: white;
-}
-
-#p4 {
+.bgtext {
     text-shadow: 2px 2px rgba(0, 0, 0, 0.63);
     padding: 30px;
     border-radius: 10px;
